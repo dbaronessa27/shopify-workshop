@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@sap-cloud-sdk/http-client": "^4.5.1",
+    "@sap/cds": "^9.8.3",
+    "@sap/cds-dk": "^9.8.1",
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@cap-js/cds-types": "^0.16.0",
+    "@cap-js/sqlite": "^2"
+  },
+  "scripts": {
+    "watch": "cds watch",
+    "start": "cds-serve",
+    "build": "tsc"
+  }
+}
