@@ -1,0 +1,5 @@
+ID,name,description,price,stock,category_ID
+3f2504e0-4f89-41d3-9a0c-0305e82c3301,MacBook Pro,Apple laptop,2500,10,7f2504e0-4f89-41d3-9a0c-0305e82c4401
+3f2504e0-4f89-41d3-9a0c-0305e82c3302,iPhone 15,Apple phone,1200,20,7f2504e0-4f89-41d3-9a0c-0305e82c4402
+3f2504e0-4f89-41d3-9a0c-0305e82c3303,iPad Air,Apple tablet,799,15,7f2504e0-4f89-41d3-9a0c-0305e82c4402
+3f2504e0-4f89-41d3-9a0c-0305e82c3304,AirPods Pro,Wireless earbuds,249,30,7f2504e0-4f89-41d3-9a0c-0305e82c4403
